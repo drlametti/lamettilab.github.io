@@ -8,7 +8,7 @@ permalink: /miscellanea/
 
 ## Psychology Resources
 
-- **[Psychology Listening, Reading and Viewing While in Quarantine](#)** — A curated document featuring podcasts, articles, stories, films, and TV shows for psychology enthusiasts.
+- **[Psychology Listening, Reading and Viewing While in Quarantine](https://docs.google.com/document/d/16QBBrUtvVJyBY01Bjp0JOIUe5GZw3UJ-gYbCcfIHnDk/edit?usp=sharing)** — A curated document featuring podcasts, articles, stories, films, and TV shows for psychology enthusiasts.
 
 - **[PsyTeachR](https://psyteachr.github.io/)** — An introductory statistics course in R designed for psychology students, from the University of Glasgow.
 
