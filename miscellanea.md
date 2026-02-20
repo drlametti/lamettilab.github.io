@@ -28,4 +28,4 @@ permalink: /miscellanea/
 
 - **[Slate.com Articles](https://slate.com/author/dan-lametti)** — A collection of 34 articles written during a 2012 internship, including pieces on graduate education in science and more.
 
-- **[How to Make the New Yorker's 20 Under 40](https://maisonneuve.org/)** — Guidance for aspiring fiction writers, published in Maisonneuve magazine.
+- **[How to Make the New Yorker's 20 Under 40](https://maisonneuve.org/article/2010/06/24/how-make-new-yorkers-20-under-40/)** — Guidance for aspiring fiction writers, published in Maisonneuve magazine.
