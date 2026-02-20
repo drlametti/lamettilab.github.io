@@ -1,0 +1,50 @@
+# Site settings
+title: Lametti Lab
+description: Speech, Language, and Communication Lab at Acadia University
+url: "https://www.lamettilab.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /news/:year/:month/:title/
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: People
+    url: /people/
+  - title: Science
+    url: /science/
+  - title: Miscellanea
+    url: /miscellanea/
+  - title: Contact
+    url: /contact/
+
+# Contact
+email: daniel.lametti@acadiau.ca
+
+# Social
+google_scholar: https://scholar.google.com/citations?user=YOUR_ID
+bluesky: https://bsky.app/profile/YOUR_HANDLE
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
