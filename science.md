@@ -14,9 +14,7 @@ The lab manipulates auditory, somatosensory, and visual feedback during movement
 
 ### Brain Basis of Speech and Language Processing
 
-Beyond behavioral studies, the team explores neural mechanisms underlying speech—particularly cerebellar involvement. We employ neuroimaging meta-analyses, functional MRI, and non-invasive brain stimulation techniques.
-
-Research shows "reorganization of the neurobiology of speech perception after sentence overlearning" and supports a "domain-general predictive role for the cerebellum" in speech perception.
+In addition to the behavioural work above, we are also interested in the brain basis of speech—in particular, the role of the cerebellum in speech processing. We tackle this problem using large-scale neuroimaging meta-analyses or by combining behavioural manipulations with neural measures like fMRI and noninvasive brain stimulation.
 
 ---
 
