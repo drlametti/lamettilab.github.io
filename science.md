@@ -10,9 +10,7 @@ permalink: /science/
 
 ### Sensorimotor Control and Learning in Language
 
-The lab investigates how the brain controls speech and hand movements by manipulating feedback across multiple sensory channels. Our work examines sensorimotor control, predictive processing, bilingual language production, and how forward models develop through experience.
-
-Key findings indicate that "memories of hand movements are tied to speech through learning" and that language facilitates "the acquisition of distinct sensorimotor memories for speech."
+The lab manipulates auditory, somatosensory, and visual feedback during movement to examine sensorimotor control, predictive processing, bilingual language production, and forward model acquisition in speech and co-speech hand movements.
 
 ### Brain Basis of Speech and Language Processing
 
