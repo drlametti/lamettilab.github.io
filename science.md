@@ -20,4 +20,4 @@ In addition to the behavioural work above, we are also interested in the brain b
 
 ## Publications
 
-For a complete list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=kB67xVUAAAAJ).
+For a complete list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en).
