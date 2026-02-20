@@ -18,27 +18,6 @@ In addition to the behavioural work above, we are also interested in the brain b
 
 ---
 
-## Selected Publications
+## Publications
 
-### 2025
-- Whitman, M., Vaillancourt, G., & Lametti, D.R. "Memories of Hand Movements are Tied to Speech Through Learning." *Psychonomic Bulletin & Review*.
-
-### 2024
-- Wheeler, E., Palatinus, S., & Lametti, D.R. "Language Enables the Acquisition of Distinct Sensorimotor Memories for Speech." *Cognition*.
-
-### 2023
-- "Immediate Cross-Language Transfer of Novel Articulatory Plans for Speech in Bilinguals." *Journal of Experimental Psychology: General*.
-
-### 2021
-- "Reorganization of the Neurobiology of Language After Sentence Overlearning." *Cerebral Cortex*.
-- "Speech Perception Under the Tent: A Domain-General Predictive Role for the Cerebellum." *Journal of Cognitive Neuroscience*.
-
-### 2020
-- "The perils of learning to move while speaking: One-sided interference between speech and visuomotor adaptation." *Psychonomic Bulletin and Review*.
-
-### 2018
-- "Robust sensorimotor learning during variable sentence-level speech." *Current Biology*.
-
----
-
-For a complete list of publications, visit [Google Scholar](https://scholar.google.com/).
+For a complete list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=kB67xVUAAAAJ).
