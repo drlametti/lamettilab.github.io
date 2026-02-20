@@ -12,7 +12,7 @@ permalink: /miscellanea/
 
 - **[PsyTeachR](https://psyteachr.github.io/)** — An introductory statistics course in R designed for psychology students, from the University of Glasgow.
 
-- **[The Lametti Lab R Cheat Sheet](#)** — A reference guide covering data wrangling, statistical analysis, and visualization functions.
+- **[The Lametti Lab R Cheat Sheet](https://docs.google.com/document/d/11d5PwjTkdeGQLks5xbKBIkuopp2s-DRiHy4CidUtPl0/edit?usp=sharing)** — A reference guide covering data wrangling, statistical analysis, and visualization functions.
 
 ---
 
