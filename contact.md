@@ -14,17 +14,7 @@ Interested in joining the lab? We welcome inquiries from prospective graduate st
 
 ---
 
-## Location
-
-**Speech, Language, and Communication Lab**
-Department of Psychology
-Acadia University
-Wolfville, Nova Scotia
-Canada
-
----
-
 ## Connect
 
-- [Google Scholar](https://scholar.google.com/)
-- [Blue Sky](https://bsky.app/)
+- [Google Scholar](https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en)
+- [Blue Sky](https://bsky.app/profile/daniellametti.com)
