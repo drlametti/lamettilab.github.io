@@ -26,19 +26,6 @@ Active on [Blue Sky](https://bsky.app/) discussing psychology, language, and AI.
 
 ---
 
-## Graduate Students
-
-### Lindsay Heyland
-**Master's Candidate in Clinical Psychology**
-
-Lindsay holds a BSc (Hons) from Mount Saint Vincent University and is currently an MSc candidate at Acadia studying interactions between speech production and language, examining somatosensory feedback's role in speech.
-
-**Funding:** Scotia Scholars program and Research Nova Scotia grants
-
-**Interests:** Family time, massage therapy practice, kayaking, and Pilates
-
----
-
 ## Collaborators
 
 - **Prof. Douglas Shiller** — University of Montreal
