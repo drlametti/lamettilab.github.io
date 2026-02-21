@@ -6,9 +6,9 @@ permalink: /contact/
 
 # Contact
 
-## Prospective Students & Postdocs
+## Prospective Students
 
-Interested in joining the lab? We welcome inquiries from prospective graduate students and postdoctoral researchers.
+Interested in joining the lab? We welcome inquiries from prospective students.
 
 **Email:** [daniel.lametti@acadiau.ca](mailto:daniel.lametti@acadiau.ca)
 
