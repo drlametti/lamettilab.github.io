@@ -18,19 +18,19 @@ Professor of Cognitive Psychology at Acadia University and Honorary Associate Pr
 - MSc, Experimental Psychology — McGill University
 - BSc, Physics — Bishop's University
 
-**Previous positions:**
+**Previous Posts:**
 - British Academy Postdoctoral Fellow, University of Oxford
 - Junior Research Fellow and Lecturer, Corpus Christi College Oxford
-
-Active on [Blue Sky](https://bsky.app/) discussing psychology, language, and AI.
+- Science Advisor, Wellcome Trust
 
 ---
 
 ## Collaborators
 
-- **Prof. Douglas Shiller** — University of Montreal
-- **Prof. Jeremy Skipper** — University College London
 - **Dr. Abigail Bradshaw** — University of Cambridge
+- **Dr. Santiago Castiello** — Yale University
 - **Prof. Carolyn McGettigan** — University College London
 - **Prof. Robin Murphy** — University of Oxford
+- **Prof. Douglas Shiller** — University of Montreal
+- **Prof. Jeremy Skipper** — University College London
 - **Prof. Kate Watkins** — University of Oxford
