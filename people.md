@@ -14,20 +14,7 @@ permalink: /people/
   </div>
   <div>
     <h3>Dan Lametti</h3>
-    <strong>Professor of Cognitive Psychology</strong>
-    <p>Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London.</p>
-    <strong>Education:</strong>
-    <ul>
-      <li>PhD, Experimental Psychology — McGill University</li>
-      <li>MSc, Experimental Psychology — McGill University</li>
-      <li>BSc, Physics — Bishop's University</li>
-    </ul>
-    <strong>Previous Posts:</strong>
-    <ul>
-      <li>British Academy Postdoctoral Fellow, University of Oxford</li>
-      <li>Junior Research Fellow and Lecturer, Corpus Christi College Oxford</li>
-      <li>Science Advisor, Wellcome Trust</li>
-    </ul>
+    <p>Dan Lametti is a Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London. He trained in physics at Bishop's University before completing his MSc and PhD in Experimental Psychology at McGill University. He then held a British Academy Postdoctoral Fellowship at the University of Oxford and a Junior Research Fellowship at Corpus Christi College Oxford where he studied the neurobiology of language. His research spans the psychology and neuroscience of language, speech, and human-AI interaction.</p>
   </div>
 </div>
 
