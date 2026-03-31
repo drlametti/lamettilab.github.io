@@ -8,7 +8,7 @@ permalink: /contact/
 
 ## Prospective Students
 
-Interested in joining the lab? We welcome inquiries from prospective students.
+Interested in joining the lab? We welcome inquiries from interested honours students and postdoctoral fellows.
 
 **Email:** [daniel.lametti@acadiau.ca](mailto:daniel.lametti@acadiau.ca)
 
@@ -16,5 +16,5 @@ Interested in joining the lab? We welcome inquiries from prospective students.
 
 ## Connect
 
-- [Google Scholar](https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/daniellametti/)
 - [Blue Sky](https://bsky.app/profile/daniellametti.com)
