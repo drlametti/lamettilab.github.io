@@ -8,20 +8,28 @@ permalink: /people/
 
 ## Lab Head
 
-### Dan Lametti
-**Professor of Cognitive Psychology**
-
-Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London.
-
-**Education:**
-- PhD, Experimental Psychology — McGill University
-- MSc, Experimental Psychology — McGill University
-- BSc, Physics — Bishop's University
-
-**Previous Posts:**
-- British Academy Postdoctoral Fellow, University of Oxford
-- Junior Research Fellow and Lecturer, Corpus Christi College Oxford
-- Science Advisor, Wellcome Trust
+<div class="profile">
+  <div>
+    <img src="/assets/images/dan-lametti.jpg" alt="Dan Lametti" class="profile-photo">
+  </div>
+  <div>
+    <h3>Dan Lametti</h3>
+    <strong>Professor of Cognitive Psychology</strong>
+    <p>Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London.</p>
+    <strong>Education:</strong>
+    <ul>
+      <li>PhD, Experimental Psychology — McGill University</li>
+      <li>MSc, Experimental Psychology — McGill University</li>
+      <li>BSc, Physics — Bishop's University</li>
+    </ul>
+    <strong>Previous Posts:</strong>
+    <ul>
+      <li>British Academy Postdoctoral Fellow, University of Oxford</li>
+      <li>Junior Research Fellow and Lecturer, Corpus Christi College Oxford</li>
+      <li>Science Advisor, Wellcome Trust</li>
+    </ul>
+  </div>
+</div>
 
 ---
 

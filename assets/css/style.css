@@ -209,6 +209,46 @@ em {
   }
 }
 
+/* Profile two-column layout */
+.profile {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 28px;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+.profile-photo {
+  width: 100%;
+  border-radius: 6px;
+  display: block;
+}
+
+.profile-photo-placeholder {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-light);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .profile {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-photo,
+  .profile-photo-placeholder {
+    max-width: 160px;
+  }
+}
+
 /* Print styles */
 @media print {
   .site-header,
