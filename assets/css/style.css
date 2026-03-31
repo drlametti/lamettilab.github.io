@@ -212,7 +212,7 @@ em {
 /* Profile two-column layout */
 .profile {
   display: grid;
-  grid-template-columns: 160px 1fr;
+  grid-template-columns: 320px 1fr;
   gap: 28px;
   align-items: start;
   margin-top: 1rem;
@@ -245,7 +245,7 @@ em {
 
   .profile-photo,
   .profile-photo-placeholder {
-    max-width: 160px;
+    max-width: 320px;
   }
 }
 
