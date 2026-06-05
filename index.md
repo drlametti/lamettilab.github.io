@@ -11,6 +11,8 @@ The Speech, Language, and Communication Lab at Acadia University studies how hum
 
 ## Lab News
 
+**April 2026** — PhD student Joanna Kuc had a paper accepted in the *Journal of Psychopharmacology*, "Speech markers of psychedelic-induced psychological change." [Read the preprint](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.649217.1.full.pdf).
+
 **March 2026** — Affiliation in Human-AI Interactions Based on Shared Psychological Traits is now out in [Communications Psychology](https://www.nature.com/articles/s44271-026-00433-8).
 
 **February 2026** — Dan's Critical AI Literacy course was made freely available to the public! The course launch was covered by CBC. [Read about it here](https://www.cbc.ca/news/canada/nova-scotia/acadia-university-ai-open-course-9.7073938).
