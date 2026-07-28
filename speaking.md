@@ -14,7 +14,7 @@ In addition to the lab's research on human-AI interaction, Dan gives accessible 
 
 Dan's free [Critical AI Literacy course](https://explore.acadiau.ca/product?catalog=AI-Literacy) has enrolled more than 7k people.
 
-For talk inquiries, use the form below.
+For speaking inquiries, use the form below.
 
 <form action="https://formspree.io/f/mgogdnve" method="POST" style="margin-top:1rem;">
   <p>
