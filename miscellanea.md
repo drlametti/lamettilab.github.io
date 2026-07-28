@@ -12,7 +12,7 @@ permalink: /miscellanea/
 
 - **[How to Make the New Yorker's 20 Under 40](https://maisonneuve.org/article/2010/06/24/how-make-new-yorkers-20-under-40/)** — A guide for aspiring fiction writers.
 
-- **[Can't Tickle Yourself? That's a Good Thing](https://www.scientificamerican.com/article/tit-for-tat-delusions/)** — An article for Scientific American.
+- **[Can't Tickle Yourself? That's a Good Thing](https://www.scientificamerican.com/article/tit-for-tat-delusions/)** — Scientific American.
 
 ---
 
