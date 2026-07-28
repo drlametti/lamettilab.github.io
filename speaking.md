@@ -1,10 +1,10 @@
 ---
 layout: default
-title: AI Literacy
-permalink: /ai-literacy/
+title: Speaking
+permalink: /speaking/
 ---
 
-# AI Literacy
+# Speaking
 
 ![AI Literacy](../assets/images/AI_literacy.jpeg)
 
