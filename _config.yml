@@ -24,17 +24,18 @@ navigation:
     url: /people/
   - title: Science
     url: /science/
+  - title: AI Literacy
+    url: /ai-literacy/
   - title: Miscellanea
     url: /miscellanea/
-  - title: Contact
-    url: /contact/
 
 # Contact
 email: daniel.lametti@acadiau.ca
 
 # Social
-google_scholar: https://scholar.google.com/citations?user=YOUR_ID
-bluesky: https://bsky.app/profile/YOUR_HANDLE
+google_scholar: https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en
+bluesky: https://bsky.app/profile/daniellametti.com
+linkedin: https://www.linkedin.com/in/daniellametti/
 
 # Default front matter
 defaults:

@@ -11,6 +11,8 @@ The Speech, Language, and Communication Lab at Acadia University studies how hum
 
 ## Lab News
 
+**June 2026** — Dan gave a talk at [Brains & Barstools](https://www.brainsandbarstools.com/) in Toronto titled "Affiliation in Human-AI Interactions—or Why do People Fall in Love with ChatGPT?"
+
 **April 2026** — PhD student Joanna Kuc had a paper accepted in the *Journal of Psychopharmacology*, "Speech markers of psychedelic-induced psychological change." [Read the preprint](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.649217.1.full.pdf).
 
 **March 2026** — Affiliation in Human-AI Interactions Based on Shared Psychological Traits is now out in [Communications Psychology](https://www.nature.com/articles/s44271-026-00433-8).

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   {% seo %}
 </head>
 <body>
@@ -31,7 +31,11 @@
   <footer class="site-footer">
     <div class="container">
       <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }} · Acadia University</p>
-      <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p>
+        <a href="mailto:{{ site.email }}">Email</a> |
+        <a href="{{ site.linkedin }}">LinkedIn</a> |
+        <a href="{{ site.bluesky }}">Bluesky</a>
+      </p>
     </div>
   </footer>
 </body>

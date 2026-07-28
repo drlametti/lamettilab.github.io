@@ -90,6 +90,14 @@ body {
   padding-bottom: 60px;
 }
 
+.site-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  margin: 1.5rem 0 0.4rem;
+}
+
 h1 {
   font-size: 1.75rem;
   font-weight: 600;
