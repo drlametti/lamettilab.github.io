@@ -8,7 +8,7 @@ permalink: /miscellanea/
 
 ## Writing & Commentary
 
-- **[Slate.com Articles](https://slate.com/author/daniel-lametti)** — A collection of 34 articles written during a 2012 internship, including pieces on graduate education in science and more.
+- **[Slate.com](https://slate.com/author/daniel-lametti)** — A collection of articles Dan has written for Slate over the years including his ["infamous" essay on the value of a science PhD](https://slate.com/technology/2012/08/what-is-the-value-of-a-science-phd-is-graduate-school-worth-the-effort.html).
 
 - **[How to Make the New Yorker's 20 Under 40](https://maisonneuve.org/article/2010/06/24/how-make-new-yorkers-20-under-40/)** — A guide for aspiring fiction writers.
 
