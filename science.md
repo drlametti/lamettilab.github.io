@@ -10,7 +10,7 @@ permalink: /science/
 
 ### Language-based Human-AI Interaction
 
-The lab investigates how humans form social and psychological relationships with langauage-based AI, and what these relationships reveal about cognition, personality, and the risks of human-AI interaction. 
+The lab investigates how humans form social and psychological relationships with language-based AI, and what these relationships reveal about cognition, personality, and the risks of human-AI interaction. 
 
 ### Sensorimotor Control and Learning in Language
 

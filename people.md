@@ -13,7 +13,7 @@ permalink: /people/
     <img src="/assets/images/dan-lametti.jpg" alt="Dan Lametti" class="profile-photo">
   </div>
   <div>
-    <p><strong>Dan Lametti</strong> is a Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London. He trained in physics at Bishop's before completing his PhD in Experimental Psychology at McGill. He then held a British Academy Postdoctoral Fellowship at the University of Oxford and a Junior Research Fellowship at Corpus Christi College Oxford where he studied the neurobiology of language. His research spans the psychology and neuroscience of language, speech, and human-AI interaction.</p>
+    <p><strong>Dan Lametti</strong> is a Professor of Cognitive Psychology at Acadia University and Honorary Associate Professor of Experimental Psychology at University College London. He trained in physics at Bishop’s before completing his PhD in Experimental Psychology at McGill. He then held a British Academy Postdoctoral Fellowship at the University of Oxford and a Junior Research Fellowship at Corpus Christi College, Oxford where he studied the neurobiology of language. His research spans the psychology and neuroscience of language, speech, and human-AI interaction.</p>
   </div>
 </div>
 

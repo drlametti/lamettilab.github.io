@@ -5,7 +5,7 @@ title: Home
 
 # Speech, Language, and Communication Lab
 
-The Speech, Language, and Communication Lab at Acadia University studies how humans learn to produce, maintain, and remember speech and language. We also examine the social cognition of languaged-based human-AI interactions. We tackle these problems using behavioural manipulations, brain imaging, and noninvasive brain stimulation.
+The Speech, Language, and Communication Lab at Acadia University studies how humans learn to produce, maintain, and remember speech and language. We also examine the social cognition of language-based human-AI interactions. We tackle these problems using behavioural manipulations, brain imaging, and noninvasive brain stimulation.
 
 ---
 
