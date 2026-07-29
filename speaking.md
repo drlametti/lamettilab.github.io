@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Speaking
-title_tag: "Dan Lametti | Psycholinguist, AI Researcher, and Speaker — Halifax, Nova Scotia"
+title_tag: "Daniel Lametti | Psycholinguist, AI Researcher, and Speaker — Halifax, Nova Scotia"
 permalink: /speaking/
 ---
 
