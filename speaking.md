@@ -10,7 +10,7 @@ permalink: /speaking/
 
 *Halifax Nerd Nite, 2026 ([photo: CBC](https://www.cbc.ca/player/play/video/9.7135128))*
 
-Dan gives accessible and engaging talks to organizations, conferences, and the public on how language-based AI like ChatGPT actually works, and how to understand, evaluate, and effectively engage with AI systems in work and life. The talks draw on his background in cognitive psychology and psycholinguistics and his research on human-AI interaction. Recent talks include *AI for Everyone: Critical AI Literacy*, *Why Do People Fall in Love with ChatGPT?*, and *What Claude Knows About You—Much More Than You Think*.
+Dan gives accessible and engaging talks to organizations, conferences, and the public on how language-based AI like ChatGPT actually works, and how to understand, evaluate, and effectively engage with AI systems in work and life. The talks draw on his background teaching cognitive science and psycholinguistics at McGill, Oxford, and Acadia, and on his lab's research on human-AI social interaction. Recent talks include *AI for Everyone: Critical AI Literacy*, *Why Do People Fall in Love with ChatGPT?*, and *What Claude Knows About You—Much More Than You Think*.
 
 Dan's free [Critical AI Literacy course](https://explore.acadiau.ca/product?catalog=AI-Literacy) has enrolled more than 7k people.
 
