@@ -11,6 +11,8 @@ The Speech, Language, and Communication Lab at Acadia University studies how hum
 
 ## Lab News
 
+**July 2026** — A new preprint led by UCL PhD student Joanna Kuc is now available on [PsyArXiv](https://osf.io/preprints/psyarxiv/9ehbn_v2): "Human or AI? An Interpretable Method for Auditing Free-Text Data in Online Psychological Research."
+
 **June 2026** — Dan gave a talk at [Brains & Barstools](https://www.brainsandbarstools.com/) in Toronto titled "Affiliation in Human-AI Interactions—or Why do People Fall in Love with ChatGPT?"
 
 **April 2026** — PhD student Joanna Kuc had a paper accepted in the *Journal of Psychopharmacology*, "Speech markers of psychedelic-induced psychological change." [Read the preprint](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.649217.1.full.pdf).
