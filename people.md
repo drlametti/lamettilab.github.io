@@ -19,6 +19,12 @@ permalink: /people/
 
 ---
 
+## Lab Members
+
+**Jonah Appleton** — Research Assistant. Jonah recently graduated with an Honours degree in Psychology from Acadia, with a specialization in Neuroscience and a minor in Philosophy. His interests span social and personality psychology, existential psychology, and neuroscience. As part of his research in the lab, Jonah is building a web-based platform to study human-AI interactions. He hopes to pursue graduate school in psychology with the goal of working as a psychotherapist.
+
+---
+
 ## Collaborators
 
 - **Dr. Abigail Bradshaw** — University of Cambridge
