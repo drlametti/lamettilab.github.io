@@ -6,15 +6,11 @@ baseurl: ""
 
 # Build settings
 markdown: kramdown
-permalink: /news/:year/:month/:title/
-
-# Theme settings
-remote_theme: pages-themes/minimal@v0.2.0
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Navigation
 navigation:
@@ -37,13 +33,15 @@ google_scholar: https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en
 bluesky: https://bsky.app/profile/daniellametti.com
 linkedin: https://www.linkedin.com/in/daniellametti/
 
+twitter:
+  card: summary_large_image
+
 # Default front matter
 defaults:
   - scope:
       path: ""
-      type: "posts"
     values:
-      layout: "post"
+      image: /assets/images/og-image.png
   - scope:
       path: ""
       type: "pages"

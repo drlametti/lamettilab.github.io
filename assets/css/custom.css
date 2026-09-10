@@ -161,8 +161,11 @@ em {
   font-style: italic;
 }
 
-/* News items styling */
-.site-content > .container > p > strong:first-child {
+/* Accent colour for lead-in names: news item dates on the home page, and
+   the person's name at the start of each People entry (both the plain
+   paragraphs and the ones wrapped in a .profile photo layout). */
+.site-content > .container > p > strong:first-child,
+.profile p > strong:first-child {
   color: var(--primary);
   font-weight: 600;
 }

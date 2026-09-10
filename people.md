@@ -21,16 +21,9 @@ permalink: /people/
 
 ## Lab Members
 
-**Ileana Wheeler** — Honours Student. After completing her BSc in Psychology and Biology in 2026, Ileana returned to Acadia to add an Honours project to her degree. Ileana is testing the extent to which the language people use in short conversations with AI conveys their personality. Her research in the lab is funded by an Honours Summer Research Award from Acadia.
+**Ileana Wheeler** — Honours Student. After completing her BSc in Psychology and Biology in 2026, Ileana returned to Acadia to add an Honours project to her degree. Ileana is testing the extent to which the language people use in short conversations with AI conveys their personality. Her interests in psychology include neuroscience, cognition, and computational psychopathology, and she hopes to pursue graduate school in clinical psychology. Her research in the lab is funded by an Honours Summer Research Award from Acadia. Connect with Ileana on [LinkedIn](https://www.linkedin.com/in/ileana-wheeler-a40650353/).
 
-<div class="profile">
-  <div>
-    <img src="/assets/images/jonah-appleton.jpeg" alt="Jonah Appleton" class="profile-photo">
-  </div>
-  <div>
-    <p><strong>Jonah Appleton</strong> — Research Assistant. Jonah recently graduated with an Honours degree in Psychology from Acadia, with a specialization in Neuroscience and a minor in Philosophy. His interests span social and personality psychology, existential psychology, and neuroscience. As part of his research in the lab, Jonah is building a web-based platform to study human-AI interactions. He hopes to pursue graduate school in psychology with the goal of working as a psychotherapist. Connect with Jonah on <a href="https://www.linkedin.com/in/jonah-appleton-33a41b410/">LinkedIn</a>.</p>
-  </div>
-</div>
+**Jonah Appleton** — Research Assistant. Jonah recently graduated with an Honours degree in Psychology from Acadia, with a specialization in Neuroscience and a minor in Philosophy. His interests span social and personality psychology, existential psychology, and neuroscience. As part of his research in the lab, Jonah is building a web-based platform to study human-AI interactions. He hopes to pursue graduate school in psychology with the goal of working as a psychotherapist. Connect with Jonah on [LinkedIn](https://www.linkedin.com/in/jonah-appleton-33a41b410/).
 
 ---
 

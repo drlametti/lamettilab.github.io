@@ -10,3 +10,6 @@ Gemfile.lock
 .claude/
 Gemfile.local
 Gemfile.local.lock
+
+# Full-resolution image originals (kept locally, not published or deployed)
+_originals/
