@@ -33,8 +33,15 @@ google_scholar: https://scholar.google.com/citations?user=Moar0_EAAAAJ&hl=en
 bluesky: https://bsky.app/profile/daniellametti.com
 linkedin: https://www.linkedin.com/in/daniellametti/
 
+twitter:
+  card: summary_large_image
+
 # Default front matter
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/og-image.png
   - scope:
       path: ""
       type: "pages"
