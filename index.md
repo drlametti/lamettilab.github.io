@@ -11,6 +11,8 @@ The Speech, Language, and Communication Lab at Acadia University studies how hum
 
 ## Lab News
 
+**September 2026** — A new, up-to-date version of Dan's free AI literacy course has launched—AI for Everyone: Critical AI Literacy. The two-hour certificate course covers how large language models like ChatGPT work and important ethical, cognitive, and privacy issues related to using them. [Start the course here](https://explore.acadiau.ca/product?catalog=AI-Literacy).
+
 **July 2026** — A new preprint led by UCL PhD student Joanna Kuc is now available on [PsyArXiv](https://osf.io/preprints/psyarxiv/9ehbn_v2): "Human or AI? An Interpretable Method for Auditing Free-Text Data in Online Psychological Research."
 
 **June 2026** — Dan gave a talk at [Brains & Barstools](https://www.brainsandbarstools.com/) in Toronto titled "Affiliation in Human-AI Interactions—or Why do People Fall in Love with ChatGPT?"
