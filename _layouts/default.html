@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if page.title_tag %}{{ page.title_tag }}{% else %}Daniel Lametti | Psycholinguist, AI Researcher, and Speaker{% endif %}</title>
+  <title>{% if page.title_tag %}{{ page.title_tag }}{% elsif page.title == "Home" %}Lametti Lab | Speech, Language, and Communication Lab at Acadia University{% else %}{{ page.title }} | Lametti Lab{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">

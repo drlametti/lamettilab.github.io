@@ -20,8 +20,6 @@ navigation:
     url: /people/
   - title: Science
     url: /science/
-  - title: Speaking
-    url: /speaking/
   - title: Miscellanea
     url: /miscellanea/
 
