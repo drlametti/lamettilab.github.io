@@ -11,6 +11,8 @@ The Speech, Language, and Communication Lab at Acadia University studies how hum
 
 ## Lab News
 
+**November 2026** — Dan was on the CBC radio show Maritime Noon talking with the host and callers about AI literacy. [Listen to the episode here](https://www.cbc.ca/listen/live-radio/1-38-maritime-noon/clip/16247539-on-phone-in-acadia-universitys-daniel-lametti-joins-talk) (starting at 14:50).
+
 **November 2026** — How much of our psychology do we share in short, seemingly meaningless conversations with AI? Acadia students Ileana Wheeler and Jonah Appleton, with Yale postdoc Santiago Castiello, and Oxford Prof Robin Murphy, help answer this question in our new [PsyArXiv](https://osf.io/preprints/psyarxiv/8476g_v1) preprint: "Predicting Personality Traits from Short Unstructured Conversations with AI."
 
 **September 2026** — A new, up-to-date version of Dan's free AI literacy course has launched—*AI for Everyone: Critical AI Literacy*. The two-hour certificate course covers how large language models like ChatGPT work and important ethical, cognitive, and privacy issues related to using them. [Start the course here](https://explore.acadiau.ca/product?catalog=AI-Literacy).
